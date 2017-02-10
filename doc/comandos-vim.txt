@@ -1,0 +1,36 @@
+LISTA DE COMANDOS                                      *comandos*
+
+
+
+MOVIMIENTOS DEL CURSOR                             *mover-cursor*
+=================================================================
+  h   -> Un caracter a la derecha
+  j   -> Una linea abajo
+  k   -> Una linea arriba
+  l   -> Un caracter a la derecha
+  b   -> Inicio de una palabra/símbolo a la izquierda
+  w   -> Inicio de una palabra/símbolo a la derecha
+  e   -> Fin de una palabra/símbolo a la izquierda
+  ge  -> Fin de una palabra/símbolo a la derecha
+  (   -> Comienzo de anterior oración
+  )   -> Comienzo de siguiente oración
+  {   -> Principio del anterior párrfo
+  }   -> Principio del siguiente párrafo
+
+
+
+
+
+MODOS                                                     *modos*
+=================================================================
+  i -> Insertar
+
+
+
+
+VENTANA                                                *ventana*
+================================================================
+  :resize [+-]n           ->  Cambia el tamaño horizontal de la ventana
+  :vertical resize [+-]n  ->  Cambia el tamaño vertical de la ventana
+  :resize n               ->  Cambia el tamaño horizontal de la ventana a n caracteres
+  :vertical resize n      ->  Cambia el tamaño vertical de la ventana a n caracteres
