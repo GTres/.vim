@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/mnt/cdf/proyectos/saecho/docker/docker-file/flask'
+let g:netrw_dirhist_2='/home/guillermo/Documentos/dani/tarea_01'
+let g:netrw_dirhist_3='/home/guillermo/.vim/t'
